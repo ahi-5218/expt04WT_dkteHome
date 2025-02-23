@@ -64,14 +64,20 @@ img{
 	float: right;
 }
 .msg{
-	
+	width: 100%;
 	border-left: 1px solid #2b0318;
 	padding-left: 10px;
 	float: left;
 }
 .mission{
-	width: 345;
-	border-left: 2px solid #fecc00;
+	width: 100%;
+	border-left: 1px solid #fecc00;
+	padding-left: 10px;
+	float: left;
+}
+.vision{
+	width: 100%;
+	border-left: 1px solid #fecc00;
 	padding-left: 10px;
 	float: left;
 }
